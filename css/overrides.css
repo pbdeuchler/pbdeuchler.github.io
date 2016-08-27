@@ -1,0 +1,33 @@
+ul {
+	margin-left: 2em;
+}
+
+.post-list {
+	margin-left: 0;
+}
+
+nav ul {
+	margin-left: 0;
+}
+
+ul li ul {
+	margin-left: 3.5em;
+}
+
+ul li ul li ul {
+	margin-left: 3.5em;
+}
+
+section.main .content .markdown ul li p {
+	margin-bottom: .25em;
+}
+
+section.main .content .markdown ul li ul {
+	margin-bottom: .25em;
+	margin-top: .25em;
+}
+
+section.main .content .markdown ul li ul li ul {
+	margin-bottom: .25em;
+	margin-top: .25em;
+}
