@@ -1,0 +1,15 @@
+{{define "content"}}
+<article>
+  <div class="page-heading">{{.Post.Title}}</div>
+  {{if .Post.Subtitle}}
+  <div class="post-subtitle">{{.Post.Subtitle}}</div>
+  {{end}}
+  <div class="post-meta">
+    <span class="post-date"{{if .Post.LastModifiedFmt}} title="Updated {{.Post.LastModifiedFmt}}"{{end}}>Written {{.Post.DateFmt}}</span>
+  </div>
+  <div class="prose">{{.Post.Content}}</div>
+  {{if .Post.LastModifiedFmt}}
+  <div class="post-updated">Last updated {{.Post.LastModifiedFmt}}</div>
+  {{end}}
+</article>
+{{end}}

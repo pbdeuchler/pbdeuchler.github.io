@@ -1,0 +1,11 @@
+{{define "content"}}
+<div class="page-heading">Posts</div>
+<ul class="post-list">
+  {{range .Posts}}
+  <li>
+    <span class="meta">{{.DateFmt}}</span>
+    <a href="/posts/{{.Slug}}/">{{.Title}}</a>
+  </li>
+  {{end}}
+</ul>
+{{end}}
