@@ -3,7 +3,7 @@ title: Context Rules Everything Around Me
 date: 2026-02-04
 last-modified: 2026-05-19
 subtitle: I'm tired of screwing around in a TUI.
-draft: true
+draft: false
 ---
 
 I am a little bit disappointed with the industry right now. There seems to have been a massive unmooring of steady thought over the past year or so, brought on by the full advent of LLMs and highly competent coding agents. Every time I see a video or post about some new agentic orchestration framework, or some high throughput Jira to Agent slop pipeline, I am struck with an intense sense of deja vu. This obsession with tooling and productivity optimization smacks of engineers arguing about and ricing their terminals and IDEs, constantly looking for the holy grail of Vim bundles that will truly unlock their inner greatness. But none of this actually gets work done, none of this builds usable products, and I refuse to believe that the core role of engineering software systems is dead only to be replaced by piping customer requests directly into a coding agent. I am sure to many who previously considered themselves fine artisans it is easy to give up and start flinging vibecoded LOC over the wall[^0]. But I cannot shake the fact that this new way of doing things just _does not feel like engineering_.
