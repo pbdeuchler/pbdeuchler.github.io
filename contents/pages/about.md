@@ -2,6 +2,6 @@
 title: About
 ---
 
-Wanna-be ski bum, bad coffee roaster. Located in Boulder, CO.
+Wanna-be ski bum, bad coffee roaster. Located in beautiful Boulder, CO.
 
-Currently: Network Edge Security @ Block
+Currently: AppSec @ Shopify
